@@ -8,6 +8,7 @@ OUTPUT: The final output of the project is to submit an improved and refactored 
 
 The follwing items were modified:
 
+<<<<<<< HEAD
 - repalce the <title>website</title> with a proper title <title>Horiseon</title>
 - replace the <div class="header"> with a semantic <header> section tag
 - replace the <div> under the <h1>Hori<span class="seo">seo</span>n</h1> with <nav> tags
@@ -26,6 +27,14 @@ The follwing items were modified:
 - combined the follwoing selectors into a single group: .search-engine-optimization, .online-reputation-management, .social-media-marketing
 - replaced the .content class selector tag with the new semantic element sleector tag in the CSS file
 - converted the "DIV"s in the body to semantic "SECTION" tags
+=======
+- repalce the "title"website"/title" with a proper title <title>Horiseon</title>
+- replace the "div" class="header"" with a semantic "header" section tag
+- replace the "div" under the <h1Hori<span class="seo""seo"/span"n/h1" with <nav> tags
+- replace the "div"class="content"" with smeantic "main" tags
+- replace the standard "div class="benefits"" with semantic "aside" tags
+- repalce the "div class="footer"" with semantic "footer" tags
+>>>>>>> a4bf21aa9e850b1b854ff0bbdaabbf2b5d1752a5
 
 The follwiong items were added:
 
