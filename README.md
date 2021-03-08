@@ -14,13 +14,22 @@ The follwing items were modified:
 - replace the <div class="content"> with smeantic <main> tags
 - replace the standard <div class="benefits"> with semantic <aside> tags
 - repalce the <div class="footer"> with semantic <footer> tags
-- fixed the broekn link to the section "search-engine-optimization", by replacing the "class" in class="search-engine-optimization"> with "id
 - changed the header class select to an element sleect (removed the "." in the CSS file)
 - changed the footer from a class selector to an element selector (removed the ".")
 - replace "DIV" with "NAV" in the CSS file to support the smemantic tags that were changed in the HTML.
+- changed the "DIV" tags in the benefits section and replaced them with smeantic tags of "Benefits" for the aside content and used existing class selectors and repositioned them in the semenatic benenfits tags.
+- combined the follwoing selectors into a single group: .benefit-lead, .benefit-brand, .benefit-cost
+- combined the follwoing selectors into a single group: .benefit-lead h3, .benefit-brand h3, .benefit-cost h3
+- combined the follwoing selectors into a single group: .benefit-lead img, .benefit-brand img, .benefit-cost img
+- combined the follwoing selectors into a single group: .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2
+- combined the follwoing selectors into a single group: .online-reputation-management img, .social-media-marketing img, .search-engine-optimization img
+- combined the follwoing selectors into a single group: .search-engine-optimization, .online-reputation-management, .social-media-marketing
+- replaced the .content class selector tag with the new semantic element sleector tag in the CSS file
+- converted the "DIV"s in the body to semantic "SECTION" tags
 
 The follwiong items were added:
 
+- added the id select for "search-engine-optimization" to fix the broken link to the section
 - added an alt tag to the Search Engine Optimization image: alt="Search Engine optimization"
 - added an alt tag to the Online reputation Mangement image: alt="Online Reputation Management"
 - added an alt tag to the Social Media Marketing image: alt="Social Media Marketing"
