@@ -8,12 +8,12 @@ OUTPUT: The final output of the project is to submit an improved and refactored 
 
 The follwing items were modified:
 
-- repalce the <title>website</title> with a proper title <title>Horiseon</title>
-- replace the <div class="header"> with a semantic <header> section tag
-- replace the <div> under the <h1>Hori<span class="seo">seo</span>n</h1> with <nav> tags
-- replace the <div class="content"> with smeantic <main> tags
-- replace the standard <div class="benefits"> with semantic <aside> tags
-- repalce the <div class="footer"> with semantic <footer> tags
+- repalce the "title"website"/title" with a proper title "title"Horiseon"/title"
+- replace the "DIV" class="header"" with a semantic "header" section tag
+- replace the "DIV"" under the "h1"Hori"span class="seo""seo"/span"n"/h1" with "nav" tags
+- replace the "DIV" class="content"" with smeantic "main" tags
+- replace the standard "DIV" class="benefits"" with semantic "aside" tags
+- repalce the "DIV" class="footer"" with semantic "footer" tags
 - changed the header class select to an element sleect (removed the "." in the CSS file)
 - changed the footer from a class selector to an element selector (removed the ".")
 - replace "DIV" with "NAV" in the CSS file to support the smemantic tags that were changed in the HTML.
