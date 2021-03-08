@@ -55,6 +55,7 @@ header nav ul li {
 }
 /* --- HEADER NAV END --- */
 
+/* --- TEXT ELEMENTS --- */
 a {
   color: #ffffff;
   text-decoration: none;
@@ -64,6 +65,7 @@ p {
   font-size: 16px;
   margin-bottom: 32px;
 }
+/* --- TEXT ELEMENTS END --- */
 
 .hero {
   height: 800px;
@@ -74,6 +76,7 @@ p {
   background-position: center;
 }
 
+/* --- MISC CLASSES --- */
 .float-left {
   float: left;
   margin-right: 25px;
@@ -83,12 +86,41 @@ p {
   float: right;
   margin-left: 25px;
 }
+/* --- MISC CLASSES END--- */
 
+/* --- MAIN ELEMENT --- */
 main {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
+/* --- MAIN ELEMENT END --- */
+
+/* --- MAIN CLASSES --- */
+.search-engine-optimization,
+.online-reputation-management,
+.social-media-marketing {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+
+.online-reputation-management img,
+.social-media-marketing img,
+.search-engine-optimization img {
+  max-height: 200px;
+}
+
+.search-engine-optimization h2,
+.online-reputation-management h2,
+.social-media-marketing h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+/* --- MAIN CLASSES END --- */
 
 /* --- ASIDE CLASSES--- */
 .benefits {
@@ -124,30 +156,6 @@ main {
   max-width: 150px;
 }
 /* --- ASIDE CLASSES END --- */
-
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-.online-reputation-management img,
-.social-media-marketing img,
-.search-engine-optimization img {
-  max-height: 200px;
-}
-
-.search-engine-optimization h2,
-.online-reputation-management h2,
-.social-media-marketing h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
 
 /* --- FOOTER ELEMENT --- */
 footer {

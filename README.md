@@ -26,6 +26,7 @@ The follwing items were modified:
 - combined the follwoing selectors into a single group: .search-engine-optimization, .online-reputation-management, .social-media-marketing
 - replaced the .content class selector tag with the new semantic element sleector tag in the CSS file
 - converted the "DIV"s in the body to semantic "SECTION" tags
+- Added comments to the CSS file
 
 The follwiong items were added:
 
