@@ -36,6 +36,6 @@ The follwiong items were added:
 - added an alt tag to the Social Media Marketing image: alt="Social Media Marketing"
 -
 
-The following items were deleted:
+link to deployed application: https://pmarceaujr.github.io/RefactorHomeWork/
 
-link to deployed application:
+Sreenshot of web page:
