@@ -38,4 +38,4 @@ The follwiong items were added:
 
 link to deployed application: https://pmarceaujr.github.io/RefactorHomeWork/
 
-Sreenshot of web page:
+Srceenshot of web page: ![Screenshot](./assets/images/horiseon.png)
